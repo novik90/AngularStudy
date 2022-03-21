@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularStudy';
+  showTitle = false;
+
+  getTitle() {
+    this.showTitle = !this.showTitle;
+  }
+
 }
