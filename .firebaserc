@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-study-5bb01": {
+      "hosting": {
+        "AngularStudy": [
+          "angular-study-5bb01"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-study-5bb01"
+  }
+}
